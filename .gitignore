@@ -1,0 +1,5 @@
+groovy_examples.iml
+.gradle/*
+.idea/*
+build/*
+classes/*
